@@ -7,6 +7,6 @@ def say_hello(name):
 
 
 if __name__ == "__main__":
-    name = "Praneeth"
+    name = "Praneeth Devops"
     say_hello(name)
     print(to_upper(name))
